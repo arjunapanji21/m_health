@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "861546263934",
+    "project_id": "m-health-42325",
+    "storage_bucket": "m-health-42325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861546263934:android:4e8d7fdcde81b0839baf2f",
+        "android_client_info": {
+          "package_name": "com.arjuna.mhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861546263934-qtb5mka2hre6qjp7mrhutp0ghfehngus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arjuna.mhealth",
+            "certificate_hash": "30f04e610a199d6f87bc9cf70f7371c1887cccb6"
+          }
+        },
+        {
+          "client_id": "861546263934-rrnqk7npvp5ein1n6njkui1h5djnuqkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6QVankh4OlIcxov1IAtWIttcK88k-5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861546263934-rrnqk7npvp5ein1n6njkui1h5djnuqkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
